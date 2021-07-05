@@ -1,0 +1,44 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+body{
+    background: yellow;
+}
+h1{
+    font-size: 60px;
+    color: brown;
+    background-color: springgreen;
+}
+nav{
+    /* margin: 20px; */
+    background-color: teal;
+    padding: 15px;
+}
+a{
+    border: none;
+    background-color: yellowgreen;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 5px 1px 4px 7px;
+    /*padding-left: 0%;/*/
+    margin: 20px;
+    
+}
+/* ul{
+    list-style-type: none;
+    list-style-image: linear-gradient(#ff72 0, #ffba11 50% );
+    list-style-position: inside;
+} */
+ol{
+    list-style: none;
+    padding: 0;
+}
+li{
+    position: relative;
+    display: block;
+    padding: 3px 3px 3px 6px;
+    margin: 3px 0x 3px 1px;
+    background-color: teal;
+    color: white;
+}
